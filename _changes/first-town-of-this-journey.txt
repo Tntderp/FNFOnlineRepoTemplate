@@ -1,0 +1,8 @@
+mods/data/first-town-of-this-journey/first-town-of-this-journey-easy.json
+mods/data/first-town-of-this-journey/first-town-of-this-journey-hard.json
+mods/data/first-town-of-this-journey/first-town-of-this-journey.json
+mods/data/first-town-of-this-journey/meta.json
+mods/songs/first-town-of-this-journey/Voices.ogg
+mods/songs/first-town-of-this-journey/Inst.ogg
+mods/songs/first-town-of-this-journey/voices.ogg
+mods/songs/first-town-of-this-journey/inst.ogg

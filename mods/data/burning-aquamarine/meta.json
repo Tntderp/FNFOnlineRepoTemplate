@@ -1,0 +1,29 @@
+{
+    "name": "Burning Aquamarine",
+    "artist": "Original: Camellia\nVocals: LiterallyNoOne",
+    "week": 2,
+    "difficulties": [
+		{
+			"name": "easy",
+			"chart": "burning-aquamarine-normal",
+			"charter": "CoolStalker, YokiGuise",
+			"displayName": "Normal"
+		},
+		{
+			"name": "normal",
+			"chart": "burning-aquamarine-hard",
+			"charter": "Polarin, Fox",
+			"displayName": "Hard"
+		},
+		{
+			"name": "hard",
+			"chart": "burning-aquamarine-maniac",
+			"charter": "YokiGuise",
+			"displayName": "Maniac"
+		}
+    ],
+    "initDifficulty": "normal",
+	"icon": "camellia",
+	"background": "bgDesat",
+	"colors": [ "0xFFFFFFFF" ]
+}

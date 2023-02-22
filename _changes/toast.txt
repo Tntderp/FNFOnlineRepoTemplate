@@ -1,0 +1,9 @@
+mods/data/toast/events.json
+mods/data/toast/meta.json
+mods/data/toast/toast-easy.json
+mods/data/toast/toast-hard.json
+mods/data/toast/toast.json
+mods/songs/toast/Voices.ogg
+mods/songs/toast/Inst.ogg
+mods/songs/toast/voices.ogg
+mods/songs/toast/inst.ogg

@@ -1,0 +1,23 @@
+{
+	"name": "Boyfriend",
+	"artist": "Arrangement: KadeDev",
+	"week": 0,
+	"difficulties": [
+		{
+			"name": "normal",
+			"chart": "boyfriend",
+			"charter": "uhhhhh",
+			"displayName": "Hard"
+		},
+		{
+			"name": "hard",
+			"chart": "boyfriend-hard",
+			"charter": "uhhhhh",
+			"displayName": "Maniac"
+		}
+	],
+	"initDifficulty": "normal",
+	"icon": "bf",
+	"background": "bgDesat",
+	"colors": [ "0xFFFFFFFF" ]
+}

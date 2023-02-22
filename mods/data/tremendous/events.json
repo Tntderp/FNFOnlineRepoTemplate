@@ -1,0 +1,208 @@
+{
+    "events": [
+        {
+            "name": "camelliaZoom",
+            "step": 381,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 554,
+            "args": [3]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 745,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 904,
+            "args": [2]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 996,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 1163,
+            "args": [5]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 1453,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 1678,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 1693,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 1933,
+            "args": [6]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2130,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2255,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2272,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2399,
+            "args": [5]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2575,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2594,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2611,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2627,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2643,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2657,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2671,
+            "args": [3]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2716,
+            "args": [3]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3139,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3282,
+            "args": [3]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3329,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3445,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3482,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3522,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3560,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3762,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3853,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3921,
+            "args": [2]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3955,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4079,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4090,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4224,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4240,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4256,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4274,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4283,
+            "args": [2]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4316,
+            "args": [6]
+        }]
+}

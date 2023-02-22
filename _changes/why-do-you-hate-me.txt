@@ -1,0 +1,9 @@
+mods/data/why-do-you-hate-me/events.json
+mods/data/why-do-you-hate-me/meta.json
+mods/data/why-do-you-hate-me/why-do-you-hate-me-easy.json
+mods/data/why-do-you-hate-me/why-do-you-hate-me-hard.json
+mods/data/why-do-you-hate-me/why-do-you-hate-me.json
+mods/songs/why-do-you-hate-me/Voices.ogg
+mods/songs/why-do-you-hate-me/Inst.ogg
+mods/songs/why-do-you-hate-me/voices.ogg
+mods/songs/why-do-you-hate-me/inst.ogg

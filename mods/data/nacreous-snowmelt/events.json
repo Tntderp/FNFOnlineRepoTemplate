@@ -1,0 +1,838 @@
+{
+    "events": [
+        {
+         "step": 0,
+         "name": "changeBPM",
+         "args": [
+          198
+         ]
+        },
+        {
+         "step": 414,
+         "name": "camelliaZoom",
+         "args": [
+          1,
+          1.15
+         ]
+        },
+        {
+         "step": 637,
+         "name": "camelliaZoom",
+         "args": [
+          3,
+          1
+         ]
+        },
+        {
+         "step": 830,
+         "name": "camelliaZoom",
+         "args": [
+          0.55,
+          1
+         ]
+        },
+        {
+         "step": 1054,
+         "name": "camelliaZoom",
+         "args": [
+          2,
+          1
+         ]
+        },
+        {
+         "step": 1086,
+         "name": "camelliaZoom",
+         "args": [
+          1,
+          1.15
+         ]
+        },
+        {
+         "step": 1352,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1368,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1383,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1399,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1415,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1431,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1447,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1463,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1479,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1495,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1511,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1527,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1543,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1559,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1566,
+         "name": "camelliaZoom",
+         "args": [
+          3,
+          1
+         ]
+        },
+        {
+         "step": 1695,
+         "name": "camelliaZoom",
+         "args": [
+          0.55,
+          1
+         ]
+        },
+        {
+         "step": 1703,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1719,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1735,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1751,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1767,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1783,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1799,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1815,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1831,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1847,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1863,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1879,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1896,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 1911,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 2208,
+         "name": "camelliaZoom",
+         "args": [
+          5,
+          1
+         ]
+        },
+        {
+         "step": 2224,
+         "name": "changeBPM",
+         "args": [
+          191
+         ]
+        },
+        {
+         "step": 2240,
+         "name": "changeBPM",
+         "args": [
+          184
+         ]
+        },
+        {
+         "step": 2256,
+         "name": "changeBPM",
+         "args": [
+          177
+         ]
+        },
+        {
+         "step": 2264,
+         "name": "changeBPM",
+         "args": [
+          174
+         ]
+        },
+        {
+         "step": 2272,
+         "name": "changeBPM",
+         "args": [
+          170
+         ]
+        },
+        {
+         "step": 2280,
+         "name": "changeBPM",
+         "args": [
+          168
+         ]
+        },
+        {
+         "step": 2288,
+         "name": "changeBPM",
+         "args": [
+          165
+         ]
+        },
+        {
+         "step": 2296,
+         "name": "changeBPM",
+         "args": [
+          156
+         ]
+        },
+        {
+         "step": 2304,
+         "name": "changeBPM",
+         "args": [
+          155
+         ]
+        },
+        {
+         "step": 2312,
+         "name": "changeBPM",
+         "args": [
+          151
+         ]
+        },
+        {
+         "step": 2320,
+         "name": "changeBPM",
+         "args": [
+          145
+         ]
+        },
+        {
+         "step": 2328,
+         "name": "changeBPM",
+         "args": [
+          143
+         ]
+        },
+        {
+         "step": 2336,
+         "name": "changeBPM",
+         "args": [
+          139
+         ]
+        },
+        {
+         "step": 2462,
+         "name": "camelliaZoom",
+         "args": [
+          1,
+          1.15
+         ]
+        },
+        {
+         "step": 2523,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 2651,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 2656,
+         "name": "camelliaZoom",
+         "args": [
+          5,
+          1
+         ]
+        },
+        {
+         "step": 2719,
+         "name": "camelliaZoom",
+         "args": [
+          0.55,
+          1
+         ]
+        },
+        {
+         "step": 3003,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 3035,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 3067,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 3100,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 3102,
+         "name": "camelliaZoom",
+         "args": [
+          5,
+          1
+         ]
+        },
+        {
+         "step": 3104,
+         "name": "changeBPM",
+         "args": [
+          141
+         ]
+        },
+        {
+         "step": 3112,
+         "name": "changeBPM",
+         "args": [
+          145
+         ]
+        },
+        {
+         "step": 3120,
+         "name": "changeBPM",
+         "args": [
+          151
+         ]
+        },
+        {
+         "step": 3128,
+         "name": "changeBPM",
+         "args": [
+          156
+         ]
+        },
+        {
+         "step": 3136,
+         "name": "changeBPM",
+         "args": [
+          157
+         ]
+        },
+        {
+         "step": 3144,
+         "name": "changeBPM",
+         "args": [
+          164
+         ]
+        },
+        {
+         "step": 3152,
+         "name": "changeBPM",
+         "args": [
+          166
+         ]
+        },
+        {
+         "step": 3160,
+         "name": "changeBPM",
+         "args": [
+          172
+         ]
+        },
+        {
+         "step": 3168,
+         "name": "changeBPM",
+         "args": [
+          173
+         ]
+        },
+        {
+         "step": 3176,
+         "name": "changeBPM",
+         "args": [
+          180
+         ]
+        },
+        {
+         "step": 3184,
+         "name": "changeBPM",
+         "args": [
+          182
+         ]
+        },
+        {
+         "step": 3192,
+         "name": "changeBPM",
+         "args": [
+          183
+         ]
+        },
+        {
+         "step": 3200,
+         "name": "changeBPM",
+         "args": [
+          185
+         ]
+        },
+        {
+         "step": 3208,
+         "name": "changeBPM",
+         "args": [
+          194
+         ]
+        },
+        {
+         "step": 3216,
+         "name": "changeBPM",
+         "args": [
+          198
+         ]
+        },
+        {
+         "step": 3232,
+         "name": "changeBPM",
+         "args": [
+          201
+         ]
+        },
+        {
+         "step": 3389,
+         "name": "camelliaZoom",
+         "args": [
+          1,
+          1.15
+         ]
+        },
+        {
+         "step": 3612,
+         "name": "camelliaZoom",
+         "args": [
+          3,
+          1
+         ]
+        },
+        {
+         "step": 3743,
+         "name": "camelliaZoom",
+         "args": [
+          0.55,
+          1
+         ]
+        },
+        {
+         "step": 4222,
+         "name": "camelliaZoom",
+         "args": [
+          2,
+          1
+         ]
+        },
+        {
+         "step": 4254,
+         "name": "camelliaZoom",
+         "args": [
+          1,
+          1.15
+         ]
+        },
+        {
+         "step": 4328,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4344,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4359,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4375,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4455,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4663,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4471,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4487,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4590,
+         "name": "camelliaZoom",
+         "args": [
+          3,
+          1
+         ]
+        },
+        {
+         "step": 4655,
+         "name": "camelliaZoom",
+         "args": [
+          0.55,
+          1
+         ]
+        },
+        {
+         "step": 4679,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4695,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4711,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4727,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4743,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4759,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4775,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4791,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4807,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4823,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4839,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4855,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4871,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 4910,
+         "name": "camelliaZoom",
+         "args": [
+          5,
+          1
+         ]
+        },
+        {
+         "step": 5168,
+         "name": "camelliaZoom",
+         "args": [
+          10,
+          1
+         ]
+        },
+        {
+         "step": 5240,
+         "args": [
+          "speaker",
+          "cheer"
+         ],
+         "name": "charaAnim"
+        },
+        {
+         "step": 5240,
+         "args": [
+          "player",
+          "hey"
+         ],
+         "name": "charaAnim"
+        }
+       ]
+}

@@ -1,0 +1,9 @@
+mods/data/nacreous-snowmelt/events.json
+mods/data/nacreous-snowmelt/meta.json
+mods/data/nacreous-snowmelt/nacreous-snowmelt-easy.json
+mods/data/nacreous-snowmelt/nacreous-snowmelt-hard.json
+mods/data/nacreous-snowmelt/nacreous-snowmelt.json
+mods/songs/nacreous-snowmelt/Voices.ogg
+mods/songs/nacreous-snowmelt/Inst.ogg
+mods/songs/nacreous-snowmelt/voices.ogg
+mods/songs/nacreous-snowmelt/inst.ogg

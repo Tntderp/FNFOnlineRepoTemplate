@@ -1,0 +1,29 @@
+{
+	"name": "Lioness' Pride",
+	"artist": "Original: Camellia x Botan\nVocals: LiterallyNoOne",
+	"week": 2,
+	"difficulties": [
+		{
+			"name": "easy",
+			"chart": "lioness-pride-easy",
+			"charter": "Fox",
+			"displayName": "Normal"
+		},
+		{
+			"name": "normal",
+			"chart": "lioness-pride",
+			"charter": "Fox",
+			"displayName": "Hard"
+		},
+		{
+			"name": "hard",
+			"chart": "lioness-pride-hard",
+			"charter": "Somf",
+			"displayName": "Maniac"
+		}
+	],
+	"initDifficulty": "normal",
+	"icon": "botan",
+	"background": "bgDesat",
+	"colors": [ "0xFFFFFFFF" ]
+}

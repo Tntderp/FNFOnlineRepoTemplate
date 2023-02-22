@@ -1,0 +1,9 @@
+mods/data/crystallized/crystallized-easy.json
+mods/data/crystallized/crystallized-hard.json
+mods/data/crystallized/crystallized.json
+mods/data/crystallized/events.json
+mods/data/crystallized/meta.json
+mods/songs/crystallized/Voices.ogg
+mods/songs/crystallized/Inst.ogg
+mods/songs/crystallized/voices.ogg
+mods/songs/crystallized/inst.ogg

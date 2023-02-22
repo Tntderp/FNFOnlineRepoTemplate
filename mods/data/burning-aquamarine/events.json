@@ -1,0 +1,226 @@
+{
+    "events": [
+        {
+        "step": 0,
+        "name": "changeBPM",
+        "args": [
+        202
+        ]
+        },
+        {
+        "step": 509,
+        "name": "camelliaZoom",
+        "args": [
+        0.5,
+        1.15
+        ]
+        },
+        {
+        "step": 765,
+        "name": "camelliaZoom",
+        "args": [
+        3,
+        1
+        ]
+        },
+        {
+        "step": 1022,
+        "name": "camelliaZoom",
+        "args": [
+        0.55,
+        1
+        ]
+        },
+        {
+        "step": 1661,
+        "name": "camelliaZoom",
+        "args": [
+        3,
+        1
+        ]
+        },
+        {
+        "step": 1789,
+        "name": "camelliaZoom",
+        "args": [
+        0.5,
+        1.15
+        ]
+        },
+        {
+        "step": 1949,
+        "name": "camelliaZoom",
+        "args": [
+        3,
+        1
+        ]
+        },
+        {
+        "step": 2077,
+        "name": "camelliaZoom",
+        "args": [
+        0.5,
+        1.15
+        ]
+        },
+        {
+        "step": 2588,
+        "name": "camelliaZoom",
+        "args": [
+        6,
+        1
+        ]
+        },
+        {
+        "step": 2845,
+        "name": "camelliaZoom",
+        "args": [
+        0.5,
+        1.15
+        ]
+        },
+        {
+        "step": 3100,
+        "name": "camelliaZoom",
+        "args": [
+        3,
+        1
+        ]
+        },
+        {
+        "step": 3229,
+        "name": "camelliaZoom",
+        "args": [
+        0.55,
+        1
+        ]
+        },
+        {
+        "step": 3965,
+        "name": "camelliaZoom",
+        "args": [
+        2,
+        1
+        ]
+        },
+        {
+        "step": 4093,
+        "name": "camelliaZoom",
+        "args": [
+        0.5,
+        1.15
+        ]
+        },
+        {
+        "step": 4381,
+        "name": "camelliaZoom",
+        "args": [
+        2,
+        1
+        ]
+        },
+        {
+        "step": 4660,
+        "name": "camelliaZoom",
+        "args": [
+        6,
+        1
+        ]
+        },
+        {
+            "name": "charaAnim",
+            "step": 1592,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 1655,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 1719,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2087,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2103,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2119,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2135,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2151,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2167,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2183,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2199,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2215,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2231,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2247,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2263,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2280,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2296,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2311,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 2327,
+            "args": ["speaker", "cheer"]
+        }
+    ]
+}

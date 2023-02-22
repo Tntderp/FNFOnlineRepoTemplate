@@ -1,0 +1,9 @@
+mods/data/tomato-town/events.json
+mods/data/tomato-town/meta.json
+mods/data/tomato-town/tomato-town-easy.json
+mods/data/tomato-town/tomato-town-hard.json
+mods/data/tomato-town/tomato-town.json
+mods/songs/tomato-town/Voices.ogg
+mods/songs/tomato-town/Inst.ogg
+mods/songs/tomato-town/voices.ogg
+mods/songs/tomato-town/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/tremendous/events.json
+mods/data/tremendous/meta.json
+mods/data/tremendous/tremendous-easy.json
+mods/data/tremendous/tremendous-hard.json
+mods/data/tremendous/tremendous.json
+mods/songs/tremendous/Voices.ogg
+mods/songs/tremendous/Inst.ogg
+mods/songs/tremendous/voices.ogg
+mods/songs/tremendous/inst.ogg

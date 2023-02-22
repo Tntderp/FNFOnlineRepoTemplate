@@ -1,0 +1,9 @@
+mods/data/burning-aquamarine/burning-aquamarine-hard.json
+mods/data/burning-aquamarine/burning-aquamarine-maniac.json
+mods/data/burning-aquamarine/burning-aquamarine.json
+mods/data/burning-aquamarine/events.json
+mods/data/burning-aquamarine/meta.json
+mods/songs/burning-aquamarine/Voices.ogg
+mods/songs/burning-aquamarine/Inst.ogg
+mods/songs/burning-aquamarine/voices.ogg
+mods/songs/burning-aquamarine/inst.ogg

@@ -1,0 +1,29 @@
+{
+    "name": "TremENDouS",
+    "artist": "Original: Camellia\nVocals: tictacto",
+    "week": 2,
+    "difficulties": [
+		{
+			"name": "easy",
+			"chart": "tremendous-easy",
+			"charter": "SilentWuffer, Fox & Roko",
+			"displayName": "Normal"
+		},
+		{
+			"name": "normal",
+			"chart": "tremendous",
+			"charter": "Polarin, SilentWuffer & Fox",
+			"displayName": "Hard"
+		},
+		{
+			"name": "hard",
+			"chart": "tremendous-hard",
+			"charter": "The Maniac Crew",
+			"displayName": "Maniac"
+		}
+    ],
+    "initDifficulty": "normal",
+	"icon": "camellia",
+	"background": "bgDesat",
+	"colors": [ "0xFFFFFFFF" ]
+}

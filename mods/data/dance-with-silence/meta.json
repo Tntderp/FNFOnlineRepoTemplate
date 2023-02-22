@@ -1,0 +1,29 @@
+{
+	"name": "Dance With Silence",
+	"artist": "Original: Camellia\nArrange: LiterallyNoOne",
+	"week": 0,
+	"difficulties": [
+		{
+			"name": "easy",
+			"chart": "dance-with-silence-easy",
+			"charter": "Garacide",
+			"displayName": "Normal"
+		},
+		{
+			"name": "normal",
+			"chart": "dance-with-silence",
+			"charter": "Fox, Vivaderus",
+			"displayName": "Hard"
+		},
+		{
+			"name": "hard",
+			"chart": "dance-with-silence-hard",
+			"charter": "SilentWuffer",
+			"displayName": "Maniac"
+		}
+	],
+	"initDifficulty": "normal",
+	"icon": "camellia",
+	"background": "bgDesat",
+	"colors": [ "0xFFFFFFFF" ]
+}

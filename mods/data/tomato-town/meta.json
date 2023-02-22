@@ -1,0 +1,31 @@
+{
+	"name": "Tomato Town",
+	"artist": "Original: Camellia\nArrange: Lad",
+	"week": 0,
+	"difficulties": [
+		{
+			"hidden": true,
+			"name": "easy",
+			"chart": "tomato-town-easy",
+			"charter": "Lad, Fox",
+			"displayName": "Normal"
+		},
+		{
+			"hidden": true,
+			"name": "normal",
+			"chart": "tomato-town",
+			"charter": "Lad, Fox",
+			"displayName": "Hard"
+		},
+		{
+			"name": "hard",
+			"chart": "tomato-town-hard",
+			"charter": "Lad, Fox",
+			"displayName": "Maniac"
+		}
+	],
+	"initDifficulty": "hard",
+	"icon": "bobmellia",
+	"background": "bgDesat",
+	"colors": [ "0xFFFFFFFF" ]
+}

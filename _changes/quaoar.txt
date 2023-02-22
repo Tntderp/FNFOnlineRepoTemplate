@@ -1,0 +1,9 @@
+mods/data/quaoar/events.json
+mods/data/quaoar/meta.json
+mods/data/quaoar/quaoar-easy.json
+mods/data/quaoar/quaoar-hard.json
+mods/data/quaoar/quaoar.json
+mods/songs/quaoar/Voices.ogg
+mods/songs/quaoar/Inst.ogg
+mods/songs/quaoar/voices.ogg
+mods/songs/quaoar/inst.ogg

@@ -1,0 +1,107 @@
+{
+  "song": {
+    "notes": [
+      {
+        "mustHitSection": true,
+        "midSection": false,
+        "CPUPrimaryAltAnim": false,
+        "CPUSecondaryAltAnim": false,
+        "playerPrimaryAltAnim": false,
+        "playerSecondaryAltAnim": false,
+        "CPUAfterImage": false,
+        "playerAfterImage": false,
+        "typeOfSection": 0,
+        "lengthInSteps": 160000,
+        "bpm": 230,
+        "changeBPM": true,
+        "timePosition": 0,
+        "sectionNotes": [
+          [
+            71165,
+            1,
+            -71165
+          ],
+          [
+            71282,
+            3,
+            -71282
+          ],
+          [
+            71478,
+            2,
+            -71478
+          ],
+          [
+            71869,
+            0,
+            -71869
+          ],
+          [
+            71947,
+            3,
+            -71947
+          ],
+          [
+            72104,
+            1,
+            -72104
+          ],
+          [
+            72326,
+            2,
+            -72326
+          ],
+          [
+            72434,
+            0,
+            -72434
+          ],
+          [
+            72652,
+            3,
+            -72652
+          ],
+          [
+            72782,
+            1,
+            -72782
+          ],
+          [
+            73826,
+            0,
+            -73826
+          ],
+          [
+            73956,
+            2,
+            -73956
+          ],
+          [
+            74086,
+            1,
+            -74086
+          ],
+          [
+            74217,
+            3,
+            -74217
+          ],
+          [
+            74347,
+            0,
+            -74347
+          ]
+        ]
+      }
+    ],
+    "bpm": 230,
+    "sections": 1,
+    "needsVoices": false,
+    "player1": "bf",
+    "player2": "gf",
+    "speed": 3.1,
+    "song": "GHOUL",
+    "sectionLengths": [],
+    "validScore": true
+  }
+}

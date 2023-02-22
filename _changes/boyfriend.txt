@@ -1,0 +1,9 @@
+mods/data/boyfriend/boyfriend-easy.json
+mods/data/boyfriend/boyfriend-hard.json
+mods/data/boyfriend/boyfriend.json
+mods/data/boyfriend/events.json
+mods/data/boyfriend/meta.json
+mods/songs/boyfriend/Voices.ogg
+mods/songs/boyfriend/Inst.ogg
+mods/songs/boyfriend/voices.ogg
+mods/songs/boyfriend/inst.ogg

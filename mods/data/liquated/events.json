@@ -1,0 +1,153 @@
+{
+    "events": [
+        {
+          "name": "charaAnim",
+          "step": 552,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 567,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 615,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 631,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 679,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 695,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1155,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1163,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1171,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1179,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1187,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1195,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1203,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1211,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1219,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1227,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1235,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1243,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1251,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1259,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1267,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1275,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1283,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1291,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1299,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1307,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1315,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1323,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1331,
+          "args": ["speaker", "cheer"]
+        },
+        {
+          "name": "charaAnim",
+          "step": 1339,
+          "args": ["speaker", "cheer"]
+        }]
+}
