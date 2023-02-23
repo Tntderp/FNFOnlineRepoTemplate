@@ -1,0 +1,7 @@
+mods/data/first-town/first-town-easy.json
+mods/data/first-town/first-town-hard.json
+mods/data/first-town/first-town.json
+mods/songs/first-town/Voices.ogg
+mods/songs/first-town/Inst.ogg
+mods/songs/first-town/voices.ogg
+mods/songs/first-town/inst.ogg
