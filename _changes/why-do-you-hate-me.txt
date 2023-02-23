@@ -1,5 +1,3 @@
-mods/data/why-do-you-hate-me/events.json
-mods/data/why-do-you-hate-me/meta.json
 mods/data/why-do-you-hate-me/why-do-you-hate-me-easy.json
 mods/data/why-do-you-hate-me/why-do-you-hate-me-hard.json
 mods/data/why-do-you-hate-me/why-do-you-hate-me.json

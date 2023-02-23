@@ -1,9 +1,7 @@
-mods/data/ghoul/events.json
 mods/data/ghoul/ghoul-easy.json
 mods/data/ghoul/ghoul-gf.json
 mods/data/ghoul/ghoul-hard.json
 mods/data/ghoul/ghoul.json
-mods/data/ghoul/meta.json
 mods/songs/ghoul/Voices.ogg
 mods/songs/ghoul/Inst.ogg
 mods/songs/ghoul/voices.ogg

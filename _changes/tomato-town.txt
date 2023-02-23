@@ -1,5 +1,3 @@
-mods/data/tomato-town/events.json
-mods/data/tomato-town/meta.json
 mods/data/tomato-town/tomato-town-easy.json
 mods/data/tomato-town/tomato-town-hard.json
 mods/data/tomato-town/tomato-town.json

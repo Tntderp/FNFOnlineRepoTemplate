@@ -1,8 +1,6 @@
-mods/data/liquated/events.json
 mods/data/liquated/liquated-easy.json
 mods/data/liquated/liquated-hard.json
 mods/data/liquated/liquated.json
-mods/data/liquated/meta.json
 mods/songs/liquated/Voices.ogg
 mods/songs/liquated/Inst.ogg
 mods/songs/liquated/voices.ogg

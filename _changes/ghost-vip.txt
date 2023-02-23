@@ -1,8 +1,6 @@
-mods/data/ghost-vip/events.json
 mods/data/ghost-vip/ghost-vip-easy.json
 mods/data/ghost-vip/ghost-vip-hard.json
 mods/data/ghost-vip/ghost-vip.json
-mods/data/ghost-vip/meta.json
 mods/songs/ghost-vip/Voices.ogg
 mods/songs/ghost-vip/Inst.ogg
 mods/songs/ghost-vip/voices.ogg

@@ -1,8 +1,6 @@
 mods/data/dance-with-silence/dance-with-silence-easy.json
 mods/data/dance-with-silence/dance-with-silence-hard.json
 mods/data/dance-with-silence/dance-with-silence.json
-mods/data/dance-with-silence/events.json
-mods/data/dance-with-silence/meta.json
 mods/songs/dance-with-silence/Voices.ogg
 mods/songs/dance-with-silence/Inst.ogg
 mods/songs/dance-with-silence/voices.ogg

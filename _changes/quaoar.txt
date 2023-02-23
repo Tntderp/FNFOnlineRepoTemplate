@@ -1,5 +1,3 @@
-mods/data/quaoar/events.json
-mods/data/quaoar/meta.json
 mods/data/quaoar/quaoar-easy.json
 mods/data/quaoar/quaoar-hard.json
 mods/data/quaoar/quaoar.json

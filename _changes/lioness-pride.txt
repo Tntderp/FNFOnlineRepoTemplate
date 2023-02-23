@@ -1,9 +1,7 @@
-mods/data/lioness-pride/events.json
 mods/data/lioness-pride/lioness-pride-easy.json
 mods/data/lioness-pride/lioness-pride-gf.json
 mods/data/lioness-pride/lioness-pride-hard.json
 mods/data/lioness-pride/lioness-pride.json
-mods/data/lioness-pride/meta.json
 mods/songs/lioness-pride/Voices.ogg
 mods/songs/lioness-pride/Inst.ogg
 mods/songs/lioness-pride/voices.ogg

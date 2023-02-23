@@ -1,5 +1,3 @@
-mods/data/tremendous/events.json
-mods/data/tremendous/meta.json
 mods/data/tremendous/tremendous-easy.json
 mods/data/tremendous/tremendous-hard.json
 mods/data/tremendous/tremendous.json

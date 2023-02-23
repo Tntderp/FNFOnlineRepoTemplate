@@ -1,5 +1,3 @@
-mods/data/nacreous-snowmelt/events.json
-mods/data/nacreous-snowmelt/meta.json
 mods/data/nacreous-snowmelt/nacreous-snowmelt-easy.json
 mods/data/nacreous-snowmelt/nacreous-snowmelt-hard.json
 mods/data/nacreous-snowmelt/nacreous-snowmelt.json
